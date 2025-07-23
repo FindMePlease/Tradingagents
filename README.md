@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="assets/TauricResearch.png" style="width: 60%; height: auto;">
 </p>
@@ -211,3 +212,6 @@ Please reference our work if you find *TradingAgents* provides you with some hel
       url={https://arxiv.org/abs/2412.20138}, 
 }
 ```
+=======
+# Tradingagents
+>>>>>>> 80d24abb4e798a38411ebd4d0305f04b35f92704
